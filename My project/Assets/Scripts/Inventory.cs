@@ -26,4 +26,10 @@ public class Inventory : MonoBehaviour
         CharacterPannel.gameObject.SetActive(false);
         furniturePannel.gameObject.SetActive(true);
     }
+    public void OnClickJJini()
+    {
+       //찌니는 체고야아ㅏ
+       //찌니는 귀여워어어
+       //찌니는 찌니야아아
+    }
 }
